@@ -14,7 +14,7 @@ A custom Neural Machine Translation system for **Afaan Oromoo ↔ Amharic ↔ En
 
 ### 🎓 Certifications & Training
 *   **Cisco CCNAv7 (Jimma University):** Introduction to Networks, Switching & Routing, Enterprise Networking, Security & Automation (210 Hours).
-*   **Cisco:** Introduction to Cybersecurity & Networking Basics.
+*   **Cisco:** [Introduction to Cybersecurity](Introduction_to_Cybersecurity_certificate_lamawagari40-gmail-com_f6caf188-c956-430d-a430-79c676bc6617 (1).pdf) | [Networking Basics](Networking_Basics_certificate_lamawagari40-gmail-com_6eb4daed-c964-4ef8-97db-ec3e3f90e118 (1).pdf)
 *   **Udacity:** AI Fundamentals & Data Science Fundamentals.
 
 ### 🛠️ Technical Skills
